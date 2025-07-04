@@ -1,6 +1,6 @@
 RockPaper Clash
-Développé par : Kieran Studio
-Licence : DigitalWorkProtect by KORP (usage strictement personnel)
+- Développé par : Kieran Studio
+- Licence : DigitalWorkProtect by KORP (usage strictement personnel)
 
 Description
 RockPaper Clash est une adaptation simple du jeu classique Pierre-Feuille-Ciseaux, conçue pour offrir une expérience ludique rapide et accessible.
